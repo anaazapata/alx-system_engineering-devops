@@ -7,6 +7,6 @@ It is useful to store output of a command in a file, we won’t see the output o
 
 So, here the input is `ls -l` itself and the output is our long format list that now we can find in our life "my_list".
 
-
+### Description of the files:
 **0-hello_world**
 : Command echo "Hello, World", prints text followed by a new line to the STDOUT.
