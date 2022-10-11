@@ -1,2 +1,2 @@
 #!/bin/bash
-base64 --encode --decode rot13 
+base64 -e --decode
