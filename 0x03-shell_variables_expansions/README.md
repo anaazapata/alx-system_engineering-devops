@@ -59,4 +59,6 @@ echo "My name is $NAME"
 Alias command allow us to create simple names for commands, so we can create an easy name to perform commands that are complex and we can use them in the same way that ordinary commands are used.
 
 How to create an alias:
+```bash
 alias [-p] [name=”value”]
+```
