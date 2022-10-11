@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l |expr 2 % == 1
+ls -l |expr `2 % == 1`
