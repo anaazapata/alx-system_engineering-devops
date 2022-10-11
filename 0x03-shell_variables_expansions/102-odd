@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l |expr `2 % == 1`
+cat -n | echo $((2 %==1))
