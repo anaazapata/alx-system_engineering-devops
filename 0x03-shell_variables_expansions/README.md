@@ -49,9 +49,10 @@ $?=Expands to exit status of the most recently executed foreground pipeline.
 ### How to print a variable:
 
 Insert $ before the variable name.
-
+```bash
 NAME="ANA"
 echo "My name is $NAME"
+```
 
 ### Alias
 
