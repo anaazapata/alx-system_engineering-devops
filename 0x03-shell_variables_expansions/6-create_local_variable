@@ -1,3 +1,2 @@
 #!/bin/bash
-NAME="BEST"
-echo $NAME
+amee="BEST"
