@@ -32,7 +32,7 @@ VARNAME="value"
 ```
 Examples:
 ```bash
-user1 -> MYVAR1="2"
+user1-> MYVAR1="2"
 user1-> echo $MYVAR1
 2
 ```
