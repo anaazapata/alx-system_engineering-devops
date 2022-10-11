@@ -42,7 +42,7 @@ Local variable: available when the scope of the variable is within the function 
 
 Variable names that we can use, because they’re reserved by Bash.
 
-What is the special parameter $??
+- What is the special parameter $??
 ```bash
 $?=Expands to exit status of the most recently executed foreground pipeline.
 ```
