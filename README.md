@@ -9,6 +9,9 @@
 
 
 
+
+
+
 ## <a href="https://github.com/ceciisalas/alx-system_engineering_devops/tree/master/0x00-shell_basics">0x00-shell_basics</a>
 
 > Shell, basics project is about knowning the Shell (bash) and how it takes commands from the keyboard and gives them to the operating system, at the same time we get to know the Terminal who acts as an emulator between us and the shell, the Terminal let us interact with the shell.
