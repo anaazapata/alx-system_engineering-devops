@@ -25,7 +25,6 @@ You can assign a right just for reading, writing, executing a file, or all of th
 
 If we use the ls -l ← long format list command, we can see the rights a file or directory have
 
-![Captura de Pantalla 2022-10-06 a la(s) 10.08.21.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f2b2dd99-d619-43af-8d8e-4870e70447c0/Captura_de_Pantalla_2022-10-06_a_la(s)_10.08.21.png)
 
 - How to represent each of the three sets of permissions (owner, group, and other) as a single digit
 - `r` (read) = 4
@@ -36,10 +35,6 @@ If we use the ls -l ← long format list command, we can see the rights a file o
 - How to change permissions, owner and group of a file
 
 With the chmod command we can change the permissions of a file or directory.
-
-![Captura de Pantalla 2022-10-06 a la(s) 10.16.34.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cde6f54f-bc81-451e-b144-ffa06c618340/Captura_de_Pantalla_2022-10-06_a_la(s)_10.16.34.png)
-
-![Captura de Pantalla 2022-10-06 a la(s) 10.16.47.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/216bf98b-f3f2-48a6-ae65-f13c7336e155/Captura_de_Pantalla_2022-10-06_a_la(s)_10.16.47.png)
 
 - Why can’t a normal user `chown` a file
 
@@ -65,8 +60,6 @@ Linux:
 
 `sudo useradd username`
 
-To log in as the newly created user, you need to set the user password. To do that, run the `[passwd](https://linuxize.com/post/how-to-change-user-password-in-linux/)` command followed by the username:
-
 ```
 sudo passwd username
 ```
@@ -88,7 +81,6 @@ sudo passwd username
 
 -IBM (s.f)
 
-[Creating and managing groups on Linux](https://www.ibm.com/docs/en/ibm-mq/9.1?topic=windows-creating-managing-groups-linux)
 
 - How to print real and effective user and group IDs
 
